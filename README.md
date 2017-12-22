@@ -1,6 +1,6 @@
-# employeemanager
+# Employee Manager
 
-> Simple Employee
+> Sample Crud Code For Vue-cli
 
 ## Build Setup
 
